@@ -6,8 +6,7 @@ Helping enterprise teams start **LLM-based AI projects** responsibly—without g
 
 > ⭐ If you find this framework useful, please consider **starring this repo** to support ongoing development by the author and contributors.
 
-
-Helping enterprise teams start **LLM-based AI projects** responsibly—without getting stuck in red tape.
+View this github guide as a [website](https://patrickcsfan.github.io/ai-governance-activation-framework/)
 
 ---
 
@@ -47,7 +46,7 @@ You’ll find checklists, templates, and educational content to navigate common 
 
 ## 🚀 How to Use This
 
-1. Start with the [`checklist/`](./checklist) folder
+1. Start with the [`checklist/`](./docs/checklist) folder
 2. Use the templates to define ownership and data use
 3. Learn key concepts from [`concepts/`](./docs/concepts)
 4. Explore global references in [`resources/`](./docs/resources)

@@ -1,7 +1,7 @@
 - Getting Started
   - [Home](./README.md)
-  - [Project Principles](./docs/framework-principles.md)
-  - [FAQ](./docs/faq.md)
+  - [Project Principles](./framework-principles.md)
+  - [FAQ](./faq.md)
 
 - Checklists
   - [1. Getting Started](./checklist/01_getting-started.md)
