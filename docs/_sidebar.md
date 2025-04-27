@@ -16,13 +16,13 @@
   - [Use Case Readiness](./templates/use-case-readiness-check.md)
 
 - Core Concepts
-  - [Responsible AI](./docs/concepts/responsible-ai.md)
-  - [AI Governance](./docs/concepts/ai-governance.md)
-  - [AI Alignment](./docs/concepts/ai-alignment.md)
-  - [AI Safety](./docs/concepts/ai-safety.md)
-  - [Comparisons](./docs/concepts/comparisons.md)
-  - [Glossary](./docs/concepts/glossary.md)
+  - [Responsible AI](./concepts/responsible-ai.md)
+  - [AI Governance](./concepts/ai-governance.md)
+  - [AI Alignment](./concepts/ai-alignment.md)
+  - [AI Safety](./concepts/ai-safety.md)
+  - [Comparisons](./concepts/comparisons.md)
+  - [Glossary](./concepts/glossary.md)
 
 
 - Reference Materials
-  - [Global AI Governance Bodies](./docs/resources/global-ai-governance.md)
+  - [Global AI Governance Bodies](./concepts/resources/global-ai-governance.md)
